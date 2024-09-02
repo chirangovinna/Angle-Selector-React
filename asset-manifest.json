@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Angle-Selector-React/static/css/main.b329f5d5.css",
-    "main.js": "/Angle-Selector-React/static/js/main.fe982ddd.js",
+    "main.js": "/Angle-Selector-React/static/js/main.f41ff920.js",
     "static/js/453.5cfa2c2b.chunk.js": "/Angle-Selector-React/static/js/453.5cfa2c2b.chunk.js",
     "index.html": "/Angle-Selector-React/index.html",
     "main.b329f5d5.css.map": "/Angle-Selector-React/static/css/main.b329f5d5.css.map",
-    "main.fe982ddd.js.map": "/Angle-Selector-React/static/js/main.fe982ddd.js.map",
+    "main.f41ff920.js.map": "/Angle-Selector-React/static/js/main.f41ff920.js.map",
     "453.5cfa2c2b.chunk.js.map": "/Angle-Selector-React/static/js/453.5cfa2c2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b329f5d5.css",
-    "static/js/main.fe982ddd.js"
+    "static/js/main.f41ff920.js"
   ]
 }
